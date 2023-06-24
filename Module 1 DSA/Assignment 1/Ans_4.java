@@ -4,7 +4,7 @@ public class Ans_4 {
         int[] arr = {1, 2, 3};
         arr[arr.length-1]++;
         for(int ar: arr) {
-            System.out.println(ar);
+            System.out.print(ar);
         }
     }
 }

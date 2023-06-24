@@ -2,7 +2,7 @@ import java.util.Arrays;
 
 public class Ans_6 {
     public static void main(String[] args) {
-        int[] arr = {1, 2, 3, 5};
+        int[] arr = {1, 2, 3, 1};
         boolean flag = false;
         int idx = 0;
         Arrays.sort(arr);

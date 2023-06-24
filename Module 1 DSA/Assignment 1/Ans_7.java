@@ -1,7 +1,7 @@
 public class Ans_7 {
     
     public static void main(String[] args) {
-        int[] arr = {0, 1, 0, 3, 12, 0, 0, 1};
+        int[] arr = {0, 1, 0, 3, 12, 0, 6, 1,0};
         int i = 0;
         int j = 0;
 
