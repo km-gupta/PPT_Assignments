@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Ans1Asgn1",
+            "request": "launch",
+            "mainClass": "Ans1Asgn1",
+            "projectName": "PPT_Assignments_1d5ea95b"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
